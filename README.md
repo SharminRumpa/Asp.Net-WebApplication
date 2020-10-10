@@ -1,1 +1,17 @@
-# Asp.Net-WebApplication
+## ASP.Net Project
+### Project Information: 
+   * __Project Owner :__ *__Sharmin Akter__*
+   * __Project Number :__ 10
+   * __Project Name :__ Library Management System
+   * __Project Description :__  
+        * Windows Authentication
+		    * DataBase First
+		    * Crud Operation with Image
+		    * CrystalReport
+
+### Tools and Technologies: 
+  * EntityFramework
+  * Bootstrap
+  * jQuery 3.3.1
+  * Microsoft Visual Studio 2019	
+  * SQL Server Management Studio 2018 (Build number: 15.0.18206.0)
