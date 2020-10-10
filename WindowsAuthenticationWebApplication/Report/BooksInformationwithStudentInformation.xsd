@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="BooksInformationwithStudentInformation">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="BookID" type="xs:int" minOccurs="0" />
+                <xs:element name="BookTitle" type="xs:string" minOccurs="0" />
+                <xs:element name="AuthorName" type="xs:string" minOccurs="0" />
+                <xs:element name="ImageFile" type="xs:string" minOccurs="0" />
+                <xs:element name="FacultyName" type="xs:string" minOccurs="0" />
+                <xs:element name="StudentName" type="xs:string" minOccurs="0" />
+                <xs:element name="Address" type="xs:string" minOccurs="0" />
+                <xs:element name="ContactNo" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <BooksInformationwithStudentInformation>
+    <BookID>2</BookID>
+    <BookTitle>Color Farm</BookTitle>
+    <AuthorName>Toni Morrison</AuthorName>
+    <ImageFile>~/Image/Color Farm.jpg</ImageFile>
+    <FacultyName>Arts</FacultyName>
+    <StudentName>Jewel Rana</StudentName>
+    <Address>Puran Dhaka</Address>
+    <ContactNo>01678-656198</ContactNo>
+  </BooksInformationwithStudentInformation>
+  <BooksInformationwithStudentInformation>
+    <BookID>2</BookID>
+    <BookTitle>Color Farm</BookTitle>
+    <AuthorName>Toni Morrison</AuthorName>
+    <ImageFile>~/Image/Color Farm.jpg</ImageFile>
+    <FacultyName>Arts</FacultyName>
+    <StudentName>Md. Akram Hossain</StudentName>
+    <Address>Dhandmondi Dhaka</Address>
+    <ContactNo>01668-656198</ContactNo>
+  </BooksInformationwithStudentInformation>
+  <BooksInformationwithStudentInformation>
+    <BookID>2</BookID>
+    <BookTitle>Color Farm</BookTitle>
+    <AuthorName>Toni Morrison</AuthorName>
+    <ImageFile>~/Image/Color Farm.jpg</ImageFile>
+    <FacultyName>Arts</FacultyName>
+    <StudentName>Ala Uddin</StudentName>
+    <Address>Sadorghat Dhaka</Address>
+    <ContactNo>01878-656198</ContactNo>
+  </BooksInformationwithStudentInformation>
+  <BooksInformationwithStudentInformation>
+    <BookID>2</BookID>
+    <BookTitle>Color Farm</BookTitle>
+    <AuthorName>Toni Morrison</AuthorName>
+    <ImageFile>~/Image/Color Farm.jpg</ImageFile>
+    <FacultyName>Arts</FacultyName>
+    <StudentName>Md. Imarn Hossain</StudentName>
+    <Address>Sonarga</Address>
+    <ContactNo>01678-656198</ContactNo>
+  </BooksInformationwithStudentInformation>
+</NewDataSet>
