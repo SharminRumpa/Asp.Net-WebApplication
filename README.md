@@ -5,9 +5,9 @@
    * __Project Name :__ Library Management System
    * __Project Description :__  
         * Windows Authentication
-		    * DataBase First
-		    * Crud Operation with Image
-		    * CrystalReport
+        * DataBase First
+        * Crud Operation with Image
+        * CrystalReport
 
 ### Tools and Technologies: 
   * EntityFramework
@@ -15,3 +15,9 @@
   * jQuery 3.3.1
   * Microsoft Visual Studio 2019	
   * SQL Server Management Studio 2018 (Build number: 15.0.18206.0)
+  
+### Instruction:
+  * Run sql script
+  * Run project
+  * Registation
+  * Login
